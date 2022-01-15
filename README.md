@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briakgodfrey
-- 👀 I am a self taught developer who is learning while freelancing. 
-- 🌱 I’m currently working on "mastering(lol)" Javascript and React
+- 👀 I am a full stack boot camp student(Nucamp) 
+- 🌱 We are currently working on botstrap
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
