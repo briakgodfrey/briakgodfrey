@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briakgodfrey
-- 👀 I am a full stack development student at ZTM
-- 🌱 We are currently working on botstrap
+- 👀 I am currently studying iOS development
+- 🌱 I started learning web development and then branched into ui/ux and iOS development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
