@@ -2,7 +2,7 @@
 - 👀 I am a software engineering student at Practicum
 - 🌱 I also kind of like ux/ui design and ios development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me- I have a website! https://briabytes.com
 
 <!---
 briakgodfrey/briakgodfrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
