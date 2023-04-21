@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @briakgodfrey
-- 👀 I am a software engineering student at Practicum
-- 🌱 I also kind of like ux/ui design and ios development
+- 🌱 I am a UX design student at UX Design Institute. I also really like app development and I've dabbled in web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- I have a website! https://briabytes.com
 
