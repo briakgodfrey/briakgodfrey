@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @briakgodfrey
-- 🌱 I am a UX design student at UX Design Institute. I also really like app development and I've dabbled in web development
+- 🌱 I am a Computer Science student with an interest in ux design, machine learning, and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- I have a website! https://briabytes.com
 
