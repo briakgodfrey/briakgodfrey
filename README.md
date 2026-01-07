@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @briakgodfrey
-- 🌱 I am a Computer Science student with an interest in, machine learning, and AI
+- 🌱 I am a Computer Science student with an interest in cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- I have a website! https://briabytes.com
 
