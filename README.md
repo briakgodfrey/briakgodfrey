@@ -23,4 +23,4 @@ Full write-ups (problem, process, decisions, what I'd revisit) at [briakgodfrey.
 
 ---
 
-**[weekflow](https://github.com/briakgodfrey/weekflow)** repo is linked above under Product Design; it's also a fully vanilla JS/CSS build if you're looking at it from the engineering side.
+**[weekflow](https://github.com/briakgodfrey/weekflow)** repo is linked above under Product Design; it's also a fully vanilla JS/CSS build if you're looking at it from the engineering side. Also, you can use it!
