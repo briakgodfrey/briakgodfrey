@@ -1,6 +1,6 @@
 # Hi, I'm Bria 👋
 
-Computer Science student (B.S., graduating August 2026, cybersecurity focus) working across two tracks: backend engineering with an eye toward application security, and product/UI design. Both are real, not a pivot from one to the other, so this profile is split the same way.
+Computer Science student (B.S., graduating August 2026, cybersecurity focus) working across two tracks: backend engineering with an eye toward application security, and product/UI design. I like designing things and then building it(and in the future, breaking it)
 
 📫 briakgodfrey@gmail.com · 🌐 [briabytes.com](https://briabytes.com)
 
