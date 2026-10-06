@@ -14,7 +14,7 @@ Recent college grad (B.S., graduated August 2026) working across two tracks: bac
 
 ### Product Design
 
-**[portfolio](https://github.com/briakgodfrey/portfolio)** — Case studies covering three shipped/concept projects, each in a different register:
+**Case studies covering three shipped/concept projects, each in a different register:
 - **Weekflow** — a privacy-first weekly planner (shipped, in active use)
 - **[ironclad-fc](https://github.com/briakgodfrey/ironclad-fc)** — a broadcast-inspired sports marketing site
 - **Palette** — a mobile visual discovery app concept (onboarding → discovery → save → boards)
