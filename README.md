@@ -22,11 +22,7 @@ I like designing things, building them, and learning how to break them so I can 
 ## 🛠️ Tools I work with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,python,fastapi,postgres,docker,git,linux&perline=12" alt="Skills" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,python,fastapi,nodejs,express,postgres,docker,git,linux&perline=14" alt="Skills" />
 </p>
 
 ## 🔐 Backend & Security
@@ -34,25 +30,28 @@ I like designing things, building them, and learning how to break them so I can 
 **[inventory-api](https://github.com/briakgodfrey/inventory-api)**: An inventory and order-fulfillment API built with FastAPI and PostgreSQL.
 
 - Role-based access control
-- Transactional stock management designed to prevent overselling under concurrent requests
+- Transactional stock management that prevents overselling under concurrent requests
 - Alembic migrations and Docker
 - Security documentation mapped to the OWASP API Security Top 10
 
-**[paysupport](https://github.com/briakgodfrey/paysupport)** 🚧 *In progress*: A payment support API built with TypeScript, with a React + TypeScript dashboard for support teams.
+**[paysupport](https://github.com/briakgodfrey/paysupport)**: A transaction diagnostics and reconciliation API built with Node.js, TypeScript, Express, and PostgreSQL.
 
-- Typed API and frontend sharing one language end to end
-- Dashboard designed and built from the ground up
+- Diagnoses payment discrepancies by comparing internal ledger records against a vendor processor API, flagging status mismatches, amount mismatches, and missing records
+- Batch reconciliation sweeps plus a cron-ready script that exits non-zero to trigger alerts when drift is found
+- Raw SQL with no ORM, JWT auth, Zod validation, and an append-only audit log
+- Jest and Supertest coverage, Docker Compose setup, and OpenAPI docs
+- 🚧 React + TypeScript support dashboard in progress
 
 ## 🎨 Product Design
 
-I design across web and mobile, from early concepts to shipped products, for both client work and self-initiated concepts.
+I design across web and mobile, from early concepts to shipped products.
 
 | Project | What it is |
 | --- | --- |
 | **[Weekflow](https://briakgodfrey.github.io/weekflow/)** | A privacy-first weekly planner, shipped and in active use. Vanilla JavaScript and CSS, with ongoing updates. [Code](https://github.com/briakgodfrey/weekflow) |
-| **[benjamingammage.com](https://benjamingammage.com/)** | Client work: redesigned a streamer's personal site, tested it, and handed off wireframes plus production-ready code. |
+| **[benjamingammage.com](https://benjamingammage.com/)** | Redesigned a streamer's personal site, tested it, and handed off wireframes plus production-ready code. |
 | **[Helix & Hue Studio](https://briakgodfrey.github.io/helix-and-hue-studio/)** | A UX case study and website concept for a curly and coily hair specialist, designed around how clients choose a stylist. |
-| **[ironclad-fc](https://briakgodfrey.github.io/ironclad-fc/)** | A broadcast-inspired sports marketing site. [Code](https://github.com/briakgodfrey/ironclad-fc) |
+| **[Ironclad FC](https://briakgodfrey.github.io/ironclad-fc/)** | A broadcast-inspired sports marketing site. [Code](https://github.com/briakgodfrey/ironclad-fc) |
 | **[Palette](https://briakgodfrey.github.io/portfolio/work/palette.html)** | A mobile visual discovery app concept covering onboarding, discovery, saving, and boards. |
 
 👉 [Read the case studies](https://briakgodfrey.github.io/portfolio) for the problems, process, design decisions, and what I'd revisit.
