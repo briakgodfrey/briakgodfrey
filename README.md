@@ -25,7 +25,7 @@ I like designing things, building them, and learning how to break them so I can 
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,python,fastapi,nodejs,express,postgres,docker,git,linux&perline=14" alt="Skills" />
 </p>
 
-## 🔐 Backend & Security
+## 🔐 Engineering & Security
 
 **[inventory-api](https://github.com/briakgodfrey/inventory-api)**: An inventory and order-fulfillment API built with FastAPI and PostgreSQL.
 
@@ -34,13 +34,13 @@ I like designing things, building them, and learning how to break them so I can 
 - Alembic migrations and Docker
 - Security documentation mapped to the OWASP API Security Top 10
 
-**[paysupport](https://github.com/briakgodfrey/paysupport)**: A transaction diagnostics and reconciliation API built with Node.js, TypeScript, Express, and PostgreSQL.
+**[paysupport](https://github.com/briakgodfrey/paysupport)**: A full-stack transaction diagnostics and reconciliation tool, with an Express, TypeScript, and PostgreSQL API and a React + TypeScript support dashboard.
 
 - Diagnoses payment discrepancies by comparing internal ledger records against a vendor processor API, flagging status mismatches, amount mismatches, and missing records
 - Batch reconciliation sweeps plus a cron-ready script that exits non-zero to trigger alerts when drift is found
 - Raw SQL with no ORM, JWT auth, Zod validation, and an append-only audit log
-- Jest and Supertest coverage, Docker Compose setup, and OpenAPI docs
-- 🚧 React + TypeScript support dashboard in progress
+- **Dashboard:** strict TypeScript, React Router, and Zod-validated API responses; session token kept in memory only; a strict Content Security Policy; light and dark themes; WCAG 2.2 AA with automated axe checks
+- Tested with Jest, Supertest, Vitest, Testing Library, and MSW; Docker Compose setup and OpenAPI docs
 
 ## 🎨 Product Design
 
@@ -60,5 +60,4 @@ I design across web and mobile, from early concepts to shipped products.
 
 - 📚 Taking CodePath CYB102 and studying for Security+
 - 🔑 Next build: a secure secret-sharing API
-- ⚛️ Building the PaySupport dashboard in React + TypeScript
 - 🇰🇷 Learning Korean on the side
