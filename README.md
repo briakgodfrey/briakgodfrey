@@ -34,7 +34,7 @@ I like designing things, building them, and learning how to break them so I can 
 - Alembic migrations and Docker
 - Security documentation mapped to the OWASP API Security Top 10
 
-**[paysupport](https://github.com/briakgodfrey/paysupport)**: A full-stack transaction diagnostics and reconciliation tool, with an Express, TypeScript, and PostgreSQL API and a React + TypeScript support dashboard.
+**[paysupport](https://github.com/briakgodfrey/paysupport)**: A full-stack transaction diagnostics and reconciliation tool, with an Express, TypeScript, and PostgreSQL API and a React + TypeScript support dashboard. Live Demo: https://paysupportdemo.netlify.app/sign-in
 
 - Diagnoses payment discrepancies by comparing internal ledger records against a vendor processor API, flagging status mismatches, amount mismatches, and missing records
 - Batch reconciliation sweeps plus a cron-ready script that exits non-zero to trigger alerts when drift is found
