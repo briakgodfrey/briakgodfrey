@@ -48,7 +48,7 @@ I design across web and mobile, from early concepts to shipped products.
 
 | Project | What it is |
 | --- | --- |
-| **[Weekflow](https://briakgodfrey.github.io/weekflow/)** | A privacy-first weekly planner, shipped and in active use. Vanilla JavaScript and CSS, with ongoing updates. [Code](https://github.com/briakgodfrey/weekflow) |
+| **[Deepweek](https://briakgodfrey.github.io/deepweek/)** | A privacy-first planner (formerly Weekflow) with day, week, month and calendar views. Shipped and in active use. Vanilla JavaScript and CSS, with ongoing updates. [Code](https://github.com/briakgodfrey/deepweek) |
 | **[benjamingammage.com](https://benjamingammage.com/)** | Redesigned a streamer's personal site, tested it, and handed off wireframes plus production-ready code. |
 | **[Helix & Hue Studio](https://briakgodfrey.github.io/helix-and-hue-studio/)** | A UX case study and website concept for a curly and coily hair specialist, designed around how clients choose a stylist. |
 | **[Ironclad FC](https://briakgodfrey.github.io/ironclad-fc/)** | A broadcast-inspired sports marketing site. [Code](https://github.com/briakgodfrey/ironclad-fc) |
