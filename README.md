@@ -1,28 +1,25 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+  <img alt="Brianna Godfrey. Product Designer and Software Developer. briakgodfrey.com" src="./assets/banner-light.png">
+</picture>
 
-# Hi, I'm Bria 👋
+<p>
+<a href="mailto:briakgodfrey@gmail.com"><img src="https://img.shields.io/badge/Email-5A3FE8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://briakgodfrey.com"><img src="https://img.shields.io/badge/Portfolio-0E8C96?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/briakgodfrey"><img src="https://img.shields.io/badge/LinkedIn-1C1C22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://briabytes.com/"><img src="https://img.shields.io/badge/Blog-BriaBytes-1C1C22?style=for-the-badge&logo=rss&logoColor=white" alt="BriaBytes blog" /></a>
+</p>
 
-<a href="https://briakgodfrey.github.io/portfolio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7C5CFF&center=true&vCenter=true&width=520&lines=Product+Designer;Software+Developer;Security-Minded+Builder;I+design+it.+I+build+it.+I+break+it." alt="Typing intro" />
-</a>
+### A product designer who builds what I design, with a security mindset.
 
-Product designer and software developer with a security mindset.<br>
-B.S. in Computer Science (2026) · Building for clients since 2021
+I take features from problem definition to working code. I turn messy problems into clear, accessible products, build design systems token-first, and ship them myself in React and TypeScript, so nothing gets lost between the design and the code. I also like learning how things break so I can make them better: I care about interfaces that feel intuitive, systems that hold up under pressure, and software that's accessible and secure by default.
 
-<a href="mailto:briakgodfrey@gmail.com"><img src="https://img.shields.io/badge/Email-7C5CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://briakgodfrey.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-2E8B6A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="https://briabytes.com/"><img src="https://img.shields.io/badge/Blog-BriaBytes-1F1B2E?style=for-the-badge&logo=rss&logoColor=white" alt="BriaBytes blog" /></a>
-
-</div>
-
----
-
-I like designing things, building them, and learning how to break them so I can make them better. I care about interfaces that feel intuitive, systems that hold up under pressure, and software that's accessible and secure by default.
+B.S. in Computer Science (Summa Cum Laude, 2026) · Building for clients since 2021 · Charlotte, NC
 
 ## 🛠️ Tools I work with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,python,fastapi,nodejs,express,postgres,docker,git,linux&perline=14" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,python,fastapi,nodejs,express,postgres,docker,git,linux&perline=14" alt="Figma, HTML, CSS, JavaScript, TypeScript, React, Python, FastAPI, Node.js, Express, PostgreSQL, Docker, Git, Linux" />
 </p>
 
 ## 🔐 Engineering & Security
@@ -34,7 +31,7 @@ I like designing things, building them, and learning how to break them so I can 
 - Alembic migrations and Docker
 - Security documentation mapped to the OWASP API Security Top 10
 
-**[paysupport](https://github.com/briakgodfrey/paysupport)**: A full-stack transaction diagnostics and reconciliation tool, with an Express, TypeScript, and PostgreSQL API and a React + TypeScript support dashboard. Live Demo: https://paysupportdemo.netlify.app/sign-in
+**[paysupport](https://github.com/briakgodfrey/paysupport)**: A full-stack transaction diagnostics and reconciliation tool, with an Express, TypeScript, and PostgreSQL API and a React + TypeScript support dashboard. [Live demo](https://paysupportdemo.netlify.app/sign-in) · [Case study](https://briakgodfrey.com/work/paysupport.html)
 
 - Diagnoses payment discrepancies by comparing internal ledger records against a vendor processor API, flagging status mismatches, amount mismatches, and missing records
 - Batch reconciliation sweeps plus a cron-ready script that exits non-zero to trigger alerts when drift is found
@@ -48,13 +45,14 @@ I design across web and mobile, from early concepts to shipped products.
 
 | Project | What it is |
 | --- | --- |
-| **[Deepweek](https://briakgodfrey.github.io/deepweek/)** | A privacy-first planner (formerly Weekflow) with day, week, month and calendar views. Shipped and in active use. Vanilla JavaScript and CSS, with ongoing updates. [Code](https://github.com/briakgodfrey/deepweek) |
+| **[DeepWeek](https://briakgodfrey.github.io/deepweek/)** | A privacy-first planner (formerly Weekflow) with day, week, month and calendar views and no login. Shipped and in active use. Vanilla JavaScript and CSS, with ongoing updates. [Code](https://github.com/briakgodfrey/deepweek) |
+| **[AI Buying Concierge](https://briakgodfrey.com/work/concierge.html)** | A B2B "help me choose" flow, taken from spec and success metrics to a token-based design system and final UI. [Code](https://github.com/briakgodfrey/ai-buying-concierge) |
 | **[benjamingammage.com](https://benjamingammage.com/)** | Redesigned a streamer's personal site, tested it, and handed off wireframes plus production-ready code. |
 | **[Helix & Hue Studio](https://briakgodfrey.github.io/helix-and-hue-studio/)** | A UX case study and website concept for a curly and coily hair specialist, designed around how clients choose a stylist. |
 | **[Ironclad FC](https://briakgodfrey.github.io/ironclad-fc/)** | A broadcast-inspired sports marketing site. [Code](https://github.com/briakgodfrey/ironclad-fc) |
-| **[Palette](https://briakgodfrey.github.io/portfolio/work/palette.html)** | A mobile visual discovery app concept covering onboarding, discovery, saving, and boards. |
+| **[Palette](https://briakgodfrey.com/work/palette.html)** | A mobile visual discovery app concept covering onboarding, discovery, saving, and boards. |
 
-👉 [Read the case studies](https://briakgodfrey.github.io/portfolio) for the problems, process, design decisions, and what I'd revisit.
+👉 [Read the case studies](https://briakgodfrey.com) for the problems, process, design decisions, and what I'd revisit.
 
 ## 🌱 Right now
 
