@@ -10,9 +10,9 @@
 <a href="https://briabytes.com/"><img src="https://img.shields.io/badge/Blog-BriaBytes-1C1C22?style=for-the-badge&logo=rss&logoColor=white" alt="BriaBytes blog" /></a>
 </p>
 
-### A product designer who builds what I design, with a security mindset.
+### Product designer who can build what I design.
 
-I take features from problem definition to working code. I turn messy problems into clear, accessible products, build design systems token-first, and ship them myself in React and TypeScript, so nothing gets lost between the design and the code. I also like learning how things break so I can make them better: I care about interfaces that feel intuitive, systems that hold up under pressure, and software that's accessible and secure by default.
+I design products that make complicated things feel simple. I start with the people using it, map the flows, and shape clear, accessible interfaces backed by token-based design systems. And when it's time to build, I can do that too: I ship my own designs in React and TypeScript, so nothing gets lost between the mockup and the code. I also design with a security mindset, because I like learning how things break so I can make them hold up.
 
 B.S. in Computer Science (Summa Cum Laude, 2026) · Building for clients since 2021 · Charlotte, NC
 
@@ -45,7 +45,7 @@ I design across web and mobile, from early concepts to shipped products.
 
 | Project | What it is |
 | --- | --- |
-| **[DeepWeek](https://briakgodfrey.github.io/deepweek/)** | A privacy-first planner (formerly Weekflow) with day, week, month and calendar views and no login. Shipped and in active use. Vanilla JavaScript and CSS, with ongoing updates. [Code](https://github.com/briakgodfrey/deepweek) |
+| **[Deepweek](https://briakgodfrey.github.io/deepweek/)** | A privacy-first planner (formerly Weekflow) with day, week, month and calendar views and no login. Shipped and in active use. Vanilla JavaScript and CSS, with ongoing updates. [Code](https://github.com/briakgodfrey/deepweek) |
 | **[AI Buying Concierge](https://briakgodfrey.com/work/concierge.html)** | A B2B "help me choose" flow, taken from spec and success metrics to a token-based design system and final UI. [Code](https://github.com/briakgodfrey/ai-buying-concierge) |
 | **[benjamingammage.com](https://benjamingammage.com/)** | Redesigned a streamer's personal site, tested it, and handed off wireframes plus production-ready code. |
 | **[Helix & Hue Studio](https://briakgodfrey.github.io/helix-and-hue-studio/)** | A UX case study and website concept for a curly and coily hair specialist, designed around how clients choose a stylist. |
