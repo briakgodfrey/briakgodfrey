@@ -55,5 +55,7 @@ B.S. in Computer Science (Summa Cum Laude, 2026) · Building for clients since 2
 
 ## 🌱 Right now
 
-- 📚 Taking CodePath CYB102 and studying for Security+
+- 🎨 Taking the UX/UI Open design bootcamp
+- 🔔 Designing and building Bell, a practice diary app (Svelte PWA)
+- 📚 Taking CodePath CYB102
 - 🇰🇷 Learning Korean on the side
