@@ -23,7 +23,7 @@ B.S. in Computer Science (Summa Cum Laude, 2026) · Building for clients since 2
 | Project | What it is |
 | --- | --- |
 | **[PaySupport](https://briakgodfrey.com/work/paysupport.html)** | A support dashboard for diagnosing payment discrepancies, designed and built end to end: React + TypeScript front end on an Express and PostgreSQL API. WCAG 2.2 AA, light and dark themes. [Live demo](https://paysupportdemo.netlify.app/) · [Code](https://github.com/briakgodfrey/paysupport) |
-| **[Deepweek](https://briakgodfrey.com/work/weekflow.html)** | A privacy-first planner with day, week and month views and no login. Shipped and used by 4 people; they opened it to plan more often once I added Month view. [Live app](https://briakgodfrey.github.io/deepweek/) · [Code](https://github.com/briakgodfrey/deepweek) |
+| **[Deepweek](https://briakgodfrey.com/work/weekflow.html)** | A privacy-first planner with day, week, month and calendar views and no login. Shipped and used by 4 people; they opened it to plan more often once I added Month view. [Live app](https://briakgodfrey.github.io/deepweek/) · [Code](https://github.com/briakgodfrey/deepweek) |
 | **[AI Buying Concierge](https://briakgodfrey.com/work/concierge.html)** | A B2B "help me choose" flow, taken from buyer interviews, spec and success metrics to a token-based design system and final UI. [Code](https://github.com/briakgodfrey/ai-buying-concierge) |
 | **[Strand](https://briakgodfrey.com/work/strand.html)** | A mobile marketplace for small-batch textured hair care, from research to wireframes to a working prototype, built around one question: will this work on hair like mine? [Prototype](https://briakgodfrey.com/strand/) |
 
